@@ -1,0 +1,3 @@
+# if it don't work, try this command: pyrcc5 -o libs/resources.py resources.qrc
+pyqt5
+lxml
