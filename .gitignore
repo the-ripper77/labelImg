@@ -27,6 +27,8 @@ ehthumbs.db
 Thumbs.db
 
 # Byte-compiled / optimized / DLL files
+venv/
+.venv/
 __pycache__/
 *.py[cod]
 *$py.class
